@@ -1,4 +1,4 @@
-last_seo_boost=2026-08-08T17:45:01Z
+last_seo_boost=2026-08-08T18:08:10Z
 slug=a-akuoko
 platforms=huggingface+github+pages
 prefer=huggingface
